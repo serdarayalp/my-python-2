@@ -1,0 +1,21 @@
+<current>
+	<city id="5375480" name="Mountain View">
+		<coord lon="-122.08" lat="37.39"/>
+		<country>US</country>
+		<sunrise="2016-05-18T12:56:24" set="2016-05-19T03:13:39">
+		</sun>
+	</city>
+	<temperature value="289.731" min="289.731" max="289.731" unit="kelvin"/>
+	<humidity value="76" unit="%"/>
+	<pressure value="1015.18" unit="hPa"/>
+	<wind>
+		<speed value="4.36" name="Gentle Breeze"/>
+		<gusts/>
+		<direction value="313.001" code="NW" name="Northwest"/>
+	</wind>
+	<clouds value="0" name="clear sky"/>
+	<visibility/>
+	<precipitation mode="no"/>
+	<weather number="800" value="clear sky" icon="01n"/>
+	<lastupdate value="2016-05-18T04:24:59"/>
+</current>
